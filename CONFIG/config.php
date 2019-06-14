@@ -3,5 +3,5 @@
   define ('usuarioBd','root'); //Usuario DE LA BASE DE DATOS
   define ('password',''); // CONTRASEÑA DE LA BASE E DATOS
   define ('host','127.0.0.1'); // HOST DEL SERVIDOR
-  define ('URL','http://'.constant('host').'/DelBosque/'); // URL UNIVERSAL
+  define ('URL','http://'.constant('host').'/DeBosque/'); // URL UNIVERSAL
  ?>
